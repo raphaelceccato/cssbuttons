@@ -1,5 +1,5 @@
 # cssbuttons
-A tiny pure CSS (no Javascript) library for maKing custom colored Bootstrap-like buttons
+A tiny pure CSS (no Javascript) library for making custom colored Bootstrap-like buttons
 
 ## How to use
 Just import the CSS, and add the `button` class to the element you want to use as a button.  
